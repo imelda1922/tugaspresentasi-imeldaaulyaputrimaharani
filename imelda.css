@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(223, 140, 32);
+}
+
+body{
+    background-color: rgb(12, 182, 117);
+}
+p{
+    text-align: center;
+}
+.namal{
+    color: rgb(74, 8, 136);
+}
+
+
+.namap{
+    color: rgb(37, 37, 158);
+}
+
+
+.lahir{
+    color: rgb(60, 102, 18);
+}
+
+
+.kewarganegaraan{
+    color: rgb(39, 36, 160);
+}
+
+
+.agama{
+    color: rgb(122, 44, 16);
+}
+
+
+.grupmusik{
+    color: rgb(179, 233, 233);
+}
+
+
+.tinggibadan{
+    color: rgb(119, 65, 65);
+}
+
+
+.patner{
+    color: rgb(161, 88, 214);
+}
+
+
+.saudara{
+    color: rgb(235, 212, 83);
+}
+
+
+.pacar{
+    color: rgb(64, 99, 12);
+}
+.halu{
+    color: rgb(94, 19, 56);
+}
